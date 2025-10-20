@@ -1,7 +1,7 @@
 import { createClient } from '@supabase/supabase-js';
 import * as fs from 'fs';
 import * as path from 'path';
-import * as csv from 'csv-parser';
+// import * as csv from 'csv-parser';
 import * as dotenv from 'dotenv';
 
 // 加载环境变量
